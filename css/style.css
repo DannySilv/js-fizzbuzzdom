@@ -1,4 +1,47 @@
 body {
     font-family: 'Nunito', sans-serif;
     font-size: 100%;
+    background-color: #083b4c;
+    font-weight: 700;
+}
+
+.ms-container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.ms-box {
+    background: #1389b2;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+}
+
+.ms-box-fizz {
+    background: #0bd6a1;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+}
+
+.ms-box-buzz {
+    background: #ffd166;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+}
+
+.ms-box-fizz-buzz {
+    background: #f0466f;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+}
+ 
+.col-2{
+    margin-top: 30px !important;
 }
