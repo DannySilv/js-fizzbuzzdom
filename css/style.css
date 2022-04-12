@@ -11,11 +11,27 @@ body {
 }
 
 .ms-box {
-    background: #1389b2;
+    /* background: #1389b2; */
     border-radius: 4px;
     width: 100px;
     height: 100px;
     line-height: 100px;
+}
+
+/* PER SECONDO METODO */
+.bg-default {
+    background: #1389b2;
+}
+.bg-fizz {
+    background: #0bd6a1;
+}
+
+.bg-buzz {
+    background: #ffd166;
+}
+
+.bg-fizz-buzz {
+    background: #f0466f;
 }
 
 .ms-box-fizz {
